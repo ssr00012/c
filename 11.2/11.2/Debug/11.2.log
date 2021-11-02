@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/11/2 21:41:40。
+     1>项目“E:\大二下学期c++测试代码\11.2\11.2\11.2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 11.2.cpp
+         11.2.cpp
+     1>e:\大二下学期c++测试代码\11.2\11.2\11.2.cpp(39): error C2446: “<”: 没有从“int”到“int *”的转换
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>e:\大二下学期c++测试代码\11.2\11.2\11.2.cpp(39): error C2040: “<”:“int *”与“int”的间接寻址级别不同
+     1>e:\大二下学期c++测试代码\11.2\11.2\11.2.cpp(49): error C2296: “%”: 非法，左操作数包含“int *”类型
+     1>已完成生成项目“E:\大二下学期c++测试代码\11.2\11.2\11.2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.46
